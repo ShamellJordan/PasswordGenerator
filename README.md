@@ -7,7 +7,7 @@ Usage
     Enter the desired password length when prompted.
     The script will generate and display a random password.
 
-    Getting Started
+Getting Started
 
 To run the script, you'll need Python installed on your machine. Clone this repository, navigate to the project folder, and run the following command in your terminal
 
